@@ -8,7 +8,7 @@
 <p>
 🧰 <strong>Dev Tools:</strong> PHP MVC, JavaScript, HTML, CSS & Git/GitHub. <br/>
 🎓 <strong>Learning Now:</strong> NodeJS, ReactJS & React Native. <br/>
-🏀 <strong>Hobbies:</strong> Electric Guitar, Video Games & Basketball. </br>
+🏀 <strong>Hobbies:</strong> Electric Guitar, Games & Basketball. </br>
 😂 <strong>Fun fact:</strong> My friend and I set fire to the basement in his house when we were 8 years old, it was the first time I saw a fire truck up close.
 </p>
 
