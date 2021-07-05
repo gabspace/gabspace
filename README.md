@@ -12,10 +12,3 @@
 🏀 <strong>Hobbies:</strong> Electric Guitar, Video Games & Basketball </br>
 😂 <strong>Fun fact:</strong> My friend and I set fire to the basement in his house when we were 8 years old, it was the first time I saw a fire truck up close 🔥
 </p>
-<p align="left">
-  <a href="contato@gabtech.com.br" alt="Gmail">
-  <img width="64px" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-  <a href="instagram.com/eugb_" alt="Instagram">
-  <img width="90px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
