@@ -13,4 +13,4 @@
 😂 <strong>Fun fact:</strong> My friend and I set fire to the basement in his house when we were 8 years old, it was the first time I saw a fire truck up close 🔥
 </p>
 
-<a href="mailto:gabtech@gabtech.com.br"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/eugb_"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:gabtech@gabtech.com.br"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/eugb_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
