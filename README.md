@@ -6,7 +6,7 @@
   Web Developer <strong style="color:#2BA2EA;">PHP</strong> at LAEO, working on implementations and improvements to internal systems. 🚀
 </p> 
 <p>
-🧰 <strong>Dev Tools:</strong> PHP OO / MVC, JavaScript, HTML, CSS & Git/GitHub. <br/>
+🧰 <strong>Dev Tools:</strong> PHP OO / MVC, MYSQL, JavaScript, HTML, CSS & Git/GitHub. <br/>
 🎓 <strong>Learning Now:</strong> NodeJS, ReactJS & React Native. <br/>
 🏀 <strong>Hobbies:</strong> Electric Guitar, Games & Basketball. </br>
 😂 <strong>Fun fact:</strong> My friend and I set fire to the basement in his house when we were 8 years old, it was the first time I saw a fire truck up close.
