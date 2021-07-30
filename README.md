@@ -3,7 +3,7 @@
 <hr/>
 <p align="left"> 
   Over 9 years of IT experience, now blazing the galaxies as a Fullstack Web Developer. 💼<br><br>
-  Web Developer <strong style="color:#2BA2EA;">PHP</strong> at LAEO, working on implementations and improvements to internal systems. 🚀
+  Web Developer <strong style="color:#2BA2EA;">PHP</strong> at Lean AEO, working on implementations and improvements to internal systems. 🚀
 </p> 
 <p>
 🧰 <strong>Dev Tools:</strong> PHP OO / MVC, MYSQL, JavaScript, HTML, CSS & Git/GitHub. <br/>
