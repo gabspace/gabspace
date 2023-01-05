@@ -1,6 +1,6 @@
-#### 🧑🏿‍💻 About Me:
+### 👨🏿‍💻 About Me:
 
-💻🏾‍💻 I’m currently working as a backend developer at Fitcard<br>
+👾 I’m currently working as a backend developer at Fitcard<br>
 🌱 I’m currently learning React<br>
 🎸 Ask me about NBA and Music<br>
 😂 When I was 8 years old, a friend and I set his basement on fire while playing<br>
