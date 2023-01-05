@@ -1,6 +1,5 @@
 #### 👨🏿‍💻 AboutMe:
-<br>
-//<br>
+//
 👾 I’m currently working as a backend developer at Fitcard<br>
 🌱 I’m currently learning React<br>
 🎸 Ask me about NBA and Music<br>
