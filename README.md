@@ -1,4 +1,4 @@
-### 👨🏿‍💻 About Me:
+### 👨🏿‍💻 AboutMe:
 ---
 👾 I’m currently working as a backend developer at Fitcard<br>
 🌱 I’m currently learning React<br>
@@ -10,6 +10,6 @@
 #### 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eugb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldesenvolvedor) 
 ---
-#### 📊 GitHub Stats:
+#### 📊 GitHubStats:
 ![](https://github-readme-stats.vercel.app/api?username=gabspace&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 [![](https://visitcount.itsvg.in/api?id=gabspace&icon=1&color=0)](https://visitcount.itsvg.in)
