@@ -9,10 +9,10 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <div align="left">
-  - Currently working as a `full stack .NET developer`.
-  - Learning `React` and `Software Engineering`.
-  - Always `learning new things`.
-  - You can see [MY PHOTOS](https://500px.com/p/gabrieldevvv).
+  - Currently working as a `full stack .NET developer`.<br/>
+  - Learning `React` and `Software Engineering`.<br/>
+  - Always `learning new things`.<br/>
+  - You can see [MY PHOTOS](https://500px.com/p/gabrieldevvv).<br/>
 </div>
 <br>
 
