@@ -8,7 +8,7 @@
 - Currently working as a `full stack .NET developer`.
 - Learning `React` and `Software Engineering`.
 - Always `learning new things`.
-- You can visit [MY PHOTOS](https://500px.com/p/gabrieldevvv).
+- You can visit [MY PHOTOS](https://www.gabrielalbuquerquephoto.com/).
 <br>
 <br>
 
